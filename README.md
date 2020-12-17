@@ -35,9 +35,9 @@ Aё╨рРн╙нрйг╢сс║оС╠й╪гюОж╠╫с╣╪ЁЖю╢╢╚╣╫githubио╣д║ёнрр╡оК╢Н╦Ж╨э╨ц©╢╣д╡╘©м╣╚йгнр╡╩ж
 ## д©б╪
 + Misc
     + [BUUCTF](https://davidcheyenneone.github.io/CTF/Misc/BUUCTF/BUUCTF.html)
-рямЙЁи295/296ё╛ряио╢╚200/296
+рямЙЁи295/296ё╛ряио╢╚200/295
     + [XCTF╧╔╥юйю╫Г](https://davidcheyenneone.github.io/CTF/Misc/XCTF/XCTF.html)
-рямЙЁи146/152ё╛╢Щио╢╚
+рямЙЁи146/152ё╛ряио╢╚146/146
     + Bugku
 рямЙЁи48/48ё╛╢Щио╢╚
     + ctf.show
