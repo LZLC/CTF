@@ -30,14 +30,14 @@
 ## 关于页面
 Q：为什么你这堆页面这么难看？
   
-A：因为我是从印象笔记里直接导出来传到github上的。我也想搭个很好看的博客但是我不知道怎么搭才能直接把印象笔记里的内容方便地转移过去，找了个工具但研究了五个小时还是报错。有哪位师傅愿意教教我的话我先在这里磕头了咚咚咚。
+A：因为我是从印象笔记里直接导出来传到github上的。我也想搭个很好看的博客但是我不知道怎么搭才能直接把印象笔记里的内容方便地转移过去，找了个工具但研究了五个小时还是报错。而且Github Page报错无法生成页面，只能拉到本地去看。有哪位师傅愿意教教我的话我先在这里磕头了咚咚咚。
   
 ## 目录
 + Misc
-    + [BUUCTF](https://davidcheyenneone.github.io/Misc/BUUCTF/BUUCTF.html)
+    + [BUUCTF](https://github.com/davidcheyenneone/davidcheyenneone.github.io/tree/master/Misc/BUUCTF)
 已完成295/296，已上传295/295
     + XCTF攻防世界
-已完成146/152，**准备上传但是上传后github提示Page build failed，可能是文件内容有汉字的原因，求哪位师傅教教我怎么解决**
+已完成158/164，已上传158/158
     + Bugku
 已完成48/48，待上传
     + ctf.show
