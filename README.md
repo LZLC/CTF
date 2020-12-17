@@ -34,7 +34,7 @@ A£ºÒòÎªÎÒÊÇ´ÓÓ¡Ïó±Ê¼ÇÀïÖ±½Óµ¼³öÀ´´«µ½githubÉÏµÄ¡£ÎÒÒ²Ïë´î¸öºÜºÃ¿´µÄ²©¿Íµ«ÊÇÎÒ²»Ö
   
 ## Ä¿Â¼
 + Misc
-    + [BUUCTF](https://github.com/davidcheyenneone/davidcheyenneone.github.io/tree/master/Misc/BUUCTF)
+    + BUUCTF
 ÒÑÍê³É295/296£¬ÒÑÉÏ´«295/295
     + XCTF¹¥·ÀÊÀ½ç
 ÒÑÍê³É158/164£¬ÒÑÉÏ´«158/158
