@@ -36,7 +36,7 @@ A£ºÒòÎªÎÒÊÇ´ÓÓ¡Ïó±Ê¼ÇÀïÖ±½Óµ¼³öÀ´´«µ½githubÉÏµÄ¡£ÎÒÒ²Ïë´î¸öºÜºÃ¿´µÄ²©¿Íµ«ÊÇÎÒ²»Ö
 + Misc
     + [BUUCTF](https://davidcheyenneone.github.io/CTF/Misc/BUUCTF/BUUCTF.html)
 ÒÑÍê³É295/296£¬ÒÑÉÏ´«200/296
-    + XCTF¹¥·ÀÊÀ½ç
+    + [XCTF¹¥·ÀÊÀ½ç](https://davidcheyenneone.github.io/CTF/Misc/XCTF/XCTF.html)
 ÒÑÍê³É146/152£¬´ıÉÏ´«
     + Bugku
 ÒÑÍê³É48/48£¬´ıÉÏ´«
