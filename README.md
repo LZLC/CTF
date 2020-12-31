@@ -55,3 +55,7 @@ A：因为我是从印象笔记里直接导出来传到github上的。我也想�
 虽然说了也不一定有用，但还是希望不要随意转载，给大家磕头了咚咚咚。
   
 若有需要，请联系 davidone@foxmail.com 。
+
+## 无偿广告位
+给下面的比赛投了几道题，欢迎各位师傅们来做，给大家磕头了咚咚咚。
+![image](https://davidcheyenneone.github.io/CTF/image/-50020ac521e6f598.jpg)
