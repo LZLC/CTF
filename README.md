@@ -40,7 +40,7 @@ A：因为我是从印象笔记里直接导出来传到github上的。我也想�
     + [XCTF攻防世界](https://davidcheyenneone.github.io/Misc/XCTF/XCTF.html)
 158/164，已上传
     + [Bugku](https://davidcheyenneone.github.io/Misc/Bugku/Bugku.html)
-50/50，已上传
+52/53，已上传，还剩一题是我出的，过两天再放WP吧
     + ctf.show
 正在刷……
 + Crypto
