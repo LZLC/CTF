@@ -14,6 +14,8 @@
   
 攒的有点多，同时也还在刷更多题记更多笔记，有空的话会逐步更新。
   
+（因特定原因，一段时间内停止记录和上传笔记，已上传截至**2021.1.14上午**的所有笔记，部分为未完成草稿，请见谅。）
+  
 ## 关于内容
 + 基本上随着做题的过程实时记录，所以不免会出现以下情况：
     + 做到一半发现走错路了于是回头重来；
@@ -41,8 +43,8 @@ A：因为我是从印象笔记里直接导出来传到github上的。我也想�
 158/164，已上传
     + [Bugku](https://davidcheyenneone.github.io/Misc/Bugku/Bugku.html)
 59/59，已上传
-    + ctf.show
-正在刷……
+    + [ctf.show](https://davidcheyenneone.github.io/Misc/CTFshow/CTFshow.html)
+54/??，未全部完成
 + Crypto
     + Bugku
 待上传
@@ -55,7 +57,3 @@ A：因为我是从印象笔记里直接导出来传到github上的。我也想�
 虽然说了也不一定有用，但还是希望不要随意转载，给大家磕头了咚咚咚。
   
 若有需要，请联系 davidone@foxmail.com 。
-
-## 无偿广告位
-给下面的比赛投了几道题，欢迎各位师傅们来做，给大家磕头了咚咚咚。
-![image](https://davidcheyenneone.github.io/CTF/image/-50020ac521e6f598.jpg)
