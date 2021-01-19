@@ -40,10 +40,10 @@ A：因为我是从印象笔记里直接导出来传到github上的。我也想�
     + [XCTF攻防世界](https://davidcheyenneone.github.io/Misc/XCTF/XCTF.html)
 158/164，已上传
     + [Bugku](https://davidcheyenneone.github.io/Misc/Bugku/Bugku.html)
-62/62，已上传
+63/63，已上传
     + [ctf.show Misc分类](https://davidcheyenneone.github.io/Misc/CTFshow/CTFshow.html)
 60/61，已上传
-    + ctf.show 其他分类杂项题  
+    + ctf.show 其他分类杂项题 
 正在刷……
 + Crypto
     + Bugku
